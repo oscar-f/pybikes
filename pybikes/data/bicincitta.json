@@ -333,6 +333,17 @@
                     "endpoint": "https://bicimia.bresciamobilita.it/frmLeStazioni.aspx",
                     "tag": "bicimia"
                 },
+                                {
+                    "meta": {
+                        "latitude": 44.8292042,
+                        "city": "Ferrara",
+                        "name": "MiMuovoInBiciFE",
+                        "longitude": 11.5901392,
+                        "country": "IT"
+                    },
+                    "endpoint": "http://www.mimuovoinbici.it/frmLeStazioni.aspx?ID=142",
+                    "tag": "mimuovobicife"
+                },
                 {
                     "meta": {
                         "latitude": 41.833502,
